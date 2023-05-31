@@ -1,0 +1,68 @@
+body{
+  background: #ccc;
+}
+#Header .a:hover{
+  color:#fff;
+
+}
+#bg-img
+{
+  background: url('../img/person2.jpg');
+  background-size: 100vh;
+  min-height: 400px;
+}
+
+
+/* .media-body */
+/* { */
+  /* width: 100vb; */
+  /* height: 100vh; */
+/* margin-left: 300px; */
+/* margin-top: -290px; */
+/* } */
+.card-footer{
+  margin-top: 50px;
+  min-height: 40px;
+}
+#About{
+  margin-top:-300px ;
+}
+#About span{
+  padding: 10px 20px 10px 20px;
+}
+#About hr{
+  border-width: 4px;
+  margin-top: 6px;
+  color: red;
+}
+#Skills span{
+  padding: 10px 20px 10px 20px;
+
+}
+#Skills hr{
+border-width: 4px;
+margin-top: 6px;
+color: blue;
+  
+}
+#Certification span{
+  padding: 10px 20px 10px 20px;
+}
+
+#Certification hr{
+      border-width: 4px;
+      margin-top: 6px;
+      color: green;
+  
+    }
+  
+#Contact span {
+  padding: 10px 20px 10px 20px;
+}
+
+#Contact hr {
+  border-width: 4px;
+  margin-top: 6px;
+  color: grey;
+
+}
